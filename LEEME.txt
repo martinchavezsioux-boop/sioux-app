@@ -1,0 +1,7 @@
+SIOUX - Acceso instalable para celulares
+
+1. Subir los cinco archivos juntos a un alojamiento HTTPS que permita servir sitios estáticos (por ejemplo GitHub Pages o Cloudflare Pages).
+2. Abrir la URL pública desde Chrome en Android, elegir Instalar app o Agregar a pantalla de inicio. En iPhone usar Safari > Compartir > Añadir a pantalla de inicio.
+3. La pantalla instalada muestra el logo y un botón que abre la app oficial de Apps Script. Por restricciones de autenticación y marcos de Google, NO se garantiza que Apps Script se mantenga dentro de la ventana independiente.
+4. No modificar Código.gs ni la configuración de acceso de Apps Script. No guardar contraseñas en estos archivos.
+5. El logo usado proviene del archivo original proporcionado por Sioux y tiene contornos añadidos sobre fondo transparente.
